@@ -8,6 +8,7 @@ Backlogs
 - Potlock BOS App / Gateway Backlog https://potlock.org/bos-backlog
 - Nada Bot App Backlog https://potlock.org/nadabot-backlog
 - Nada Bot Stamp Request https://nada.bot/requests
+- Potlock Ideas & Ecosystem Request Board https://potlock.org/ideas
 
 # Socials
 - Website https://potlock.org
