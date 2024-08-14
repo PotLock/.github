@@ -1,8 +1,7 @@
 # 🫕 PotLock
-Is bringing public goods funding to the table
-![PotlockNewTwitterBanner](https://github.com/PotLock/.github/assets/45281667/a2b08a37-1235-4624-b6ec-bbff95dcc08e)
+Potlock is the open funding stack. Bringing public goods funding to the table
+![PotlockNewTwitterBanner](https://github.com/user-attachments/assets/382f7dcf-e709-4570-b585-516d5a4bc4ef)
 Potlock is an open funding and impact tracking stack (MIT Open Source License) by Potluck Labs w/ contracts deployed by Potlouck Foundation DAO. 
-
 
 ```javascript
 const currentStack = {
@@ -34,11 +33,15 @@ Current Blockchain(s) supported-
 - Potlock Ideas & Ecosystem Request Board https://potlock.org/ideas
 
 ## 👩🏽‍💻 Important Repos
+- BOS App Alem - New Decentralized Front End Framework (current bos.potlock.org) https://github.com/PotLock/bos-app-alem/
 - BOS App - Decentralized Front Ends - https://github.com/PotLock/bos-app/
+- Potlock NextJS App https://github.com/PotLock/potlock-nextjs-app
 - BOS Gateway - https://github.com/PotLock/bos-gateway
 - Core - Core Contracts on NEAR https://github.com/PotLock/core/
 - NadaBot App - https://github.com/PotLock/nadabot-app/
-- Indexer (soon) 
+- AI PGF Forum BOS Components + Gateway https://github.com/PotLock/aipgf-bos
+- GrantPicks on Stellar and NEAR MonoRepo with Front end and Contracts https://github.com/PotLock/grantpicks
+- Django Indexer https://github.com/PotLock/django-indexer
 
 ## Learn about the Protocol
 - Website https://potlock.org
@@ -46,6 +49,17 @@ Current Blockchain(s) supported-
 - BOS App https://bos.potlock.org
 - Potlock Tutorials https://potlock.org/tutorials
 - How to Plan a Pot https://potlock.org/plan-pot and Chef Training https;//potlock.org/chef-training
+
+
+# Other Apps
+- GrantPicks https://grantpicks.com
+- NadaBot https://nada.bot
+- AIPGF https://aipgf.com
+- AI PGF Forum https://forum.aipgf.com
+- Main App https://app.potlock.org
+- BOS Alem App https://bos.potlock.org
+- NextJS Staging https://alpha.potlock.org
+- Agentoor soon
 
 ## 📲 Socials
 
