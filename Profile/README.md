@@ -1,6 +1,7 @@
 # 🫕 PotLock
 Potlock is the open funding stack. Bringing public goods funding to the table
-![PotlockNewTwitterBanner](https://github.com/user-attachments/assets/382f7dcf-e709-4570-b585-516d5a4bc4ef)
+![newPotlockBanner](https://github.com/user-attachments/assets/126c6dcf-82e1-40e2-a71d-e77f323b4944)
+
 Potlock is an open funding and impact tracking stack (MIT Open Source License) by Potluck Labs w/ contracts deployed by Potlouck Foundation DAO. 
 
 ```javascript
