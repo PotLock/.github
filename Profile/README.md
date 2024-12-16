@@ -60,7 +60,10 @@ Current Blockchain(s) supported-
 - Main App https://app.potlock.org
 - BOS Alem App https://bos.potlock.org
 - NextJS Staging https://alpha.potlock.org
-- Agentoor soon
+- Agentoor soon https://agentoor.xyz
+- Grants.fun https://grants.fun
+- ActivityDAO https://activity.community
+- AwesomePump https://awesomepump.fun
 
 ## 📲 Socials
 
