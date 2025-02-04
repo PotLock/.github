@@ -1,5 +1,5 @@
 # 🫕 POTLOCK
-POTLOCK is the open funding stack. Bringing public goods funding to the table
+POTLOCK is the open funding stack supercharged by AI
 ![newPotlockBanner](https://github.com/user-attachments/assets/126c6dcf-82e1-40e2-a71d-e77f323b4944)
 
 POTLOCK is an open funding and impact tracking stack (MIT Open Source License) by Potluck Labs w/ contracts deployed by Potlouck Foundation DAO. 
@@ -7,13 +7,13 @@ POTLOCK is an open funding and impact tracking stack (MIT Open Source License) b
 ```javascript
 const currentStack = {
     code: ["Javascript", "TypeScript", "Rust", "Bash", Python", "SQL"],
-    primitives: ["funding", "impact", "identity", "web3social", "sybil-resistance"],
+    primitives: ["funding", "impact", "identity", "web3social", "sybil-resistance", "grants", "content", "ai", "ai3", "news", "contests", "launchpads", "agents"],
     technologies: {
         frontend: {
-            js: ["ReactJS", "Alem", "BOS", "Playwright"],
+            js: ["ReactJS", "Alem", "BOS", "Playwright", "Vite", "Tailwind", "Shadcdn"],
         },
         backEnd: {
-            js: ["Node"],
+            js: ["Node", "Supabase"],
             python: ["Django"],
         },
         devOps: ["AWS"],
@@ -25,6 +25,8 @@ const currentStack = {
 
 Current Blockchain(s) supported-
 - NEAR Protocol https://near.org
+- Stellar (Soroban Contracts) - GrantPicks
+- Base / Cyber - Activitiy DAO via Commit Protocol
 
 
 
@@ -42,7 +44,12 @@ Current Blockchain(s) supported-
 - NadaBot App - https://github.com/PotLock/nadabot-app/
 - AI PGF Forum BOS Components + Gateway https://github.com/PotLock/aipgf-bos
 - GrantPicks on Stellar and NEAR MonoRepo with Front end and Contracts https://github.com/PotLock/grantpicks
+- AI-PGF Playground https://playground.aipgf.com/
 - Django Indexer https://github.com/PotLock/django-indexer
+- Curate.fun https://github.com/POTLOCK/curatedotfun https://github.com/POTLOCK/curatedotfun-plugins https://github.com/POTLOCK/curatedotfun-plugin-template
+- Template App https://github.com/POTLOCK/templates
+- NEAR YEAR https://github.com/POTLOCK/nearyear
+- POTLOCK Bitte Agent https://github.com/PotLock/potlock-agent-mintbase
 
 ## Learn about the Protocol
 - Website https://potlock.org
@@ -50,6 +57,11 @@ Current Blockchain(s) supported-
 - BOS App https://bos.potlock.org
 - Potlock Tutorials https://potlock.org/tutorials
 - How to Plan a Pot https://potlock.org/plan-pot and Chef Training https;//potlock.org/chef-training
+- Grants.fun docs https://docs.grants.fun
+- Curate.fun docs https://docs.curate.fun
+- Nadabot Docs https://docs.nada.bot
+- GrantPicks Docs https://docs.grantspicks.com
+- Audits https://potlock.org/audits
 
 
 # Other Apps
@@ -58,11 +70,15 @@ Current Blockchain(s) supported-
 - AIPGF https://aipgf.com
 - AI PGF Forum https://forum.aipgf.com
 - Main App https://app.potlock.org
-- BOS Alem App https://bos.potlock.org
-- NextJS Staging https://alpha.potlock.org
-- Agentoor soon https://agentoor.xyz
+- POTLOCK BOS Alem App https://bos.potlock.org
+- POTLOCK NextJS App https://alpha.potlock.org
 - Grants.fun https://grants.fun
 - ActivityDAO https://activity.community
+- AI-PGF Playground https://playground.aipgf.com/
+- Curate.fun https://curate.fun
+- Public Goods FM https://publicgoods.fm
+- Template https://templates.potlock.org
+- NEAR YEAR https://nearyear.com
 - AwesomePump https://awesomepump.fun
 
 ## 📲 Socials
@@ -74,6 +90,10 @@ Current Blockchain(s) supported-
 - Newsletter https://subscribe.potlock.org
 - LinkedIn https://linkedin.com/company/potlock
 - Youtube https://youtube.com/@potlock
+- Grants.fun Twitter https://x.com/grantsdotfun
+- Curate.fun Twitter https://x.com/curatedotfun
+- Nadabot Twitter https://x.com/nadabots
+- AIPGF Twitter https://x.com/aipgf
 ### Web3 Social
 - NEAR.social https://potlock.near.social
 - Farcaster https://warpcast.com/potlock
@@ -81,7 +101,7 @@ Current Blockchain(s) supported-
 - Lens Protocol https://hey.xyz/u/potlock
 
 ## Ecosystem
-- Potlock Ecosystem Map https://ecosystem.potlock.org
+- POTLOCK Ecosystem Map https://ecosystem.potlock.org
 
 All Relevant Links
 - Bento Linktree https://potlock.org/bento
